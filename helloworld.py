@@ -1,4 +1,4 @@
 print"Selamat datang"
-print now
-print date
-print version
+print "now"
+print "date"
+print "version"
